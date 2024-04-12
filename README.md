@@ -1,6 +1,6 @@
 👋 Hi, I’m Ayush Kamble 
 - 😄 Pronouns: He/him.
-- 👀 Interests: Programming, web design, database management, algorithm , IoT.
+- 👀 Interests: Programming, web design, database management,IoT.
 - 🌱 Learning: Frontend development,  React, Java, SQL. 
 - 💞️ Collaboration: Open-source projects related to web development, IoT, database management.
 - 📫 Contact: email-ayushkamble3003@gmail.com
